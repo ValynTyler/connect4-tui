@@ -1,2 +1,2 @@
 default:
-	cargo build
+	cargo run
